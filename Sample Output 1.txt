@@ -1,0 +1,1186 @@
+Tank populated successfully
+
+List of fish: 
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      3              4              0              2              false          no action                               
+fish1     Carnivore      5              7              4              4              false          no action                               
+fish2     Carnivore      9              10             2              10             false          no action                               
+fish3     Carnivore      7              4              4              1              false          no action                               
+fish4     Herbivore      8              4              7              6              false          no action                               
+fish5     Herbivore      6              2              7              2              false          no action                               
+fish6     Herbivore      2              8              2              2              false          no action                               
+fish7     Omnivore       6              4              3              4              false          no action                               
+fish8     Carnivore      6              7              6              6              false          no action                               
+fish9     Herbivore      7              2              2              1              false          no action                               
+
+List of food: 
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Meat                3                   
+Meat                2                   
+Plant               2                   
+Meat                3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Meat                2                   
+Plant               2                   
+Meat                2                   
+Meat                1                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 1
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      5              4              3              2              false          grow                                    
+fish1     Carnivore      7              7              7              4              false          grow                                    
+fish2     Carnivore      9              10             2              8              false          sleep                                   
+fish3     Carnivore      9              4              7              1              false          grow                                    
+fish4     Herbivore      8              4              7              6              false          no action                               
+fish5     Herbivore      6              2              7              2              false          no action                               
+fish6     Herbivore      3              8              3              3              false          grow                                    
+fish7     Omnivore       7              5              5              6              false          grow                                    
+fish8     Carnivore      6              7              6              6              false          no action                               
+fish9     Herbivore      8              2              3              2              false          grow                                    
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Meat                3                   
+Meat                2                   
+Plant               2                   
+Meat                3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Meat                2                   
+Plant               2                   
+Meat                2                   
+Meat                1                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 2
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      7              4              6              2              false          grow                                    
+fish1     Carnivore      7              7              4              4              false          eat                 Meat                
+fish2     Carnivore      9              10             2              6              false          sleep                                   
+fish3     Carnivore      9              4              5              1              false          eat                 Meat                
+fish4     Herbivore      8              4              7              6              false          no action                               
+fish5     Herbivore      6              2              7              2              false          no action                               
+fish6     Herbivore      4              8              4              4              false          grow                                    
+fish7     Omnivore       8              6              7              8              false          grow                                    
+fish8     Carnivore      6              7              6              6              false          no action                               
+fish9     Herbivore      9              2              4              3              false          grow                                    
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Meat                3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Meat                2                   
+Plant               2                   
+Meat                2                   
+Meat                1                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 3
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      7              4              7              3              false          no action                               
+fish1     Carnivore      9              7              8              5              false          grow                Meat                
+fish2     Carnivore      9              10             3              7              false          no action                               
+fish3     Carnivore      10             4              9              2              false          grow                Meat                
+fish4     Herbivore      8              4              8              7              false          no action                               
+fish5     Herbivore      6              2              8              3              false          no action                               
+fish6     Herbivore      5              8              6              6              false          grow                                    
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              7              7              false          no action                               
+fish9     Herbivore      10             2              6              5              false          grow                                    
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Meat                3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Meat                2                   
+Plant               2                   
+Meat                2                   
+Meat                1                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 4
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      7              4              4              3              false          eat                 Meat                
+fish1     Carnivore      9              7              6              5              false          eat                 Meat                
+fish2     Carnivore      9              10             3              7              false          no action                               
+fish3     Carnivore      10             4              7              2              false          eat                 Meat                
+fish4     Herbivore      8              4              8              4              false          sleep                                   
+fish5     Herbivore      6              2              7              3              false          eat                 Plant               
+fish6     Herbivore      5              8              6              6              false          no action                               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              6              7              false          eat                 Meat                
+fish9     Herbivore      10             2              6              5              false          no action                               
+
+Food Type           Size                
+Plant               3                   
+Plant               2                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 5
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              7              3              false          grow                Meat                
+fish1     Carnivore      9              7              6              5              false          no action           Meat                
+fish2     Carnivore      9              10             3              7              false          no action                               
+fish3     Carnivore      10             4              1              2              false          eat                 fish5               
+fish4     Herbivore      8              4              5              4              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              6              6              false          no action                               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              6              7              false          no action           Meat                
+fish9     Herbivore      10             2              6              5              false          no action                               
+
+Food Type           Size                
+Plant               2                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 6
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              8              4              false          no action           Meat                
+fish1     Carnivore      9              7              7              6              false          no action           Meat                
+fish2     Carnivore      9              10             4              8              false          no action                               
+fish3     Carnivore      10             4              5              3              false          grow                fish5               
+fish4     Herbivore      8              4              6              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              7              7              false          no action                               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              7              8              false          no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action                               
+
+Food Type           Size                
+Plant               2                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 7
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              8              4              false          no action           Meat                
+fish1     Carnivore      9              7              7              6              false          no action           Meat                
+fish2     Carnivore      9              10             4              6              false          sleep                                   
+fish3     Carnivore      10             4              8              3              false          grow                fish5               
+fish4     Herbivore      8              4              6              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              7              4              false          sleep                                   
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              7              6              false          sleep               Meat                
+fish9     Herbivore      10             2              7              6              false          no action                               
+
+Food Type           Size                
+Plant               2                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 8
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              8              4              false          no action           Meat                
+fish1     Carnivore      9              7              7              6              false          no action           Meat                
+fish2     Carnivore      9              10             4              6              false          no action                               
+fish3     Carnivore      10             4              8              3              false          no action           fish5               
+fish4     Herbivore      8              4              6              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              7              4              false          no action                               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              7              6              false          no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action                               
+
+Food Type           Size                
+Plant               2                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 9
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              9              5              false          no action           Meat                
+fish1     Carnivore      9              7              8              7              false          no action           Meat                
+fish2     Carnivore      9              10             5              7              false          no action                               
+fish3     Carnivore      10             4              9              4              false          no action           fish5               
+fish4     Herbivore      8              4              7              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              5              false          no action                               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              8              7              false          no action           Meat                
+fish9     Herbivore      10             2              8              7              false          no action                               
+
+Food Type           Size                
+Plant               2                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 10
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              9              5              false          no action           Meat                
+fish1     Carnivore      9              7              8              7              false          no action           Meat                
+fish2     Carnivore      9              10             5              7              false          no action                               
+fish3     Carnivore      10             4              9              4              false          no action           fish5               
+fish4     Herbivore      8              4              7              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              6              5              false          eat                 Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              8              7              false          no action           Meat                
+fish9     Herbivore      10             2              8              4              false          sleep                                   
+
+Food Type           Size                
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 11
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              9              5              false          no action           Meat                
+fish1     Carnivore      9              7              8              7              false          no action           Meat                
+fish2     Carnivore      9              10             5              7              false          no action                               
+fish3     Carnivore      10             4              9              4              false          no action           fish5               
+fish4     Herbivore      8              4              7              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              6              5              false          no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              8              7              false          no action           Meat                
+fish9     Herbivore      10             2              5              4              false          eat                 Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 12
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              9              8              false          no action           Meat                
+fish2     Carnivore      9              10             6              8              false          no action                               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              7              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              7              6              false          no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              9              8              false          no action           Meat                
+fish9     Herbivore      10             2              6              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 13
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              9              6              false          sleep               Meat                
+fish2     Carnivore      9              10             6              6              false          sleep                                   
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              4              false          sleep               Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              7              6              false          no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              9              6              false          sleep               Meat                
+fish9     Herbivore      10             2              6              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 14
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              9              6              false          no action           Meat                
+fish2     Carnivore      9              10             6              6              false          no action                               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              4              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              7              6              false          no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              9              6              false          no action           Meat                
+fish9     Herbivore      10             2              6              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 15
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             7              7              false          no action                               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              false          no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 16
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             2              7              false          eat                 fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              5              5              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 17
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             2              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              5              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 18
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             3              8              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              6              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              7              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 19
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             3              6              false          sleep               fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              6              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              4              false          sleep               Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 20
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             3              6              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              6              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              5              4              false          eat                 Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 21
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             4              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              7              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              6              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 22
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             4              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              4              false          sleep               Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              6              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 23
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             4              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              4              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              6              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 24
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             5              8              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 25
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             5              6              false          sleep               fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              5              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 26
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             5              6              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 27
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             6              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              7              false          no action           Plant               
+
+Food Type           Size                
+Plant               3                   
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 28
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             6              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              5              6              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              4              false          sleep               Plant               
+
+Food Type           Size                
+Plant               2                   
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 29
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             6              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              5              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              6              4              false          eat                 Plant               
+
+Food Type           Size                
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 30
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             7              8              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              6              7              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 31
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             7              6              false          sleep               fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              6              4              false          sleep               Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 32
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             7              6              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              6              4              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 33
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             8              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               2                   
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 34
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             8              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              6              6              false          eat                 Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 35
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             8              7              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              6              6              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 36
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             9              8              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              7              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 37
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             9              6              false          sleep               fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              6              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              4              false          sleep               Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 38
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             9              6              false          no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              4              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 39
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              7              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              5              false          no action           Plant               
+
+Food Type           Size                
+Plant               1                   
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 40
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              4              false          sleep               Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              5              false          eat                 Plant               
+
+Food Type           Size                
+Plant               1                   
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 41
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              7              4              false          eat                 Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              7              5              false          no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 42
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              6              false          no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 43
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              6              false          no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 44
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              8              5              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              8              6              false          no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 45
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              9              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              9              7              false          no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 46
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              9              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              9              4              false          sleep               Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 47
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              9              6              false          no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              9              4              false          no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 48
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              10             7              true           no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              10             5              true           no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
+Step: 49
+
+Fish      Type           Size           Speed          Hunger         Tiredness      Dead           Last Action         Last Meal           
+fish0     Carnivore      9              4              10             6              true           no action           Meat                
+fish1     Carnivore      9              7              10             7              true           no action           Meat                
+fish2     Carnivore      9              10             10             7              true           no action           fish6               
+fish3     Carnivore      10             4              10             5              true           no action           fish5               
+fish4     Herbivore      8              4              10             7              true           no action           Plant               
+fish5     Herbivore      6              2              7              3              true           eat                 Plant               
+fish6     Herbivore      5              8              8              7              true           no action           Plant               
+fish7     Omnivore       8              6              10             5              true           sleep                                   
+fish8     Carnivore      6              7              10             7              true           no action           Meat                
+fish9     Herbivore      10             2              10             5              true           no action           Plant               
+
+Food Type           Size                
+
+Press Enter to perform a Step or type 'quit' to exit:   
